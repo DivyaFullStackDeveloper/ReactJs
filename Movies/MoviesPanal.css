@@ -1,0 +1,13 @@
+.movies-panal{
+    height:80vh;
+    width:90vw;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 50px;
+    /* display: flex; */
+    font-size: 30px;
+    color:grey;
+}
+.list-title{
+    margin-left: 500px;
+}
