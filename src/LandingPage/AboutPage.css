@@ -1,0 +1,19 @@
+.container-one{
+    background-color:#42032C;
+    height:10vh;
+    width: 100vw;
+    /* display: flex;
+    flex-direction: row; */
+}
+h1{
+    font-size: 40px;
+    color: #7A1CAC;
+    text-align: center;
+    margin-top: 80px;
+}
+p{
+    font-size: 20px;
+    margin-top: 90px;
+    margin-right:20px;
+
+}

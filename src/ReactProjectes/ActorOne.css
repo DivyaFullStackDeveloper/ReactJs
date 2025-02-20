@@ -1,0 +1,32 @@
+/* .folder{
+    width: 100vw;
+    height: 100vh;
+} */
+.Actor{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding:20px;
+    gap: 30px;
+}
+.info-button{
+    height: 30px;
+    width:100px;
+    background-color:lightslategray;
+}
+h2{
+    color: black;
+    text-align: center;
+}
+.movieShow{
+    padding: 10px 20px;
+    background-color: lightblue;
+    width: 100px;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+
+}

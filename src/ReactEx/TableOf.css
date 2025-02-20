@@ -1,0 +1,23 @@
+.table{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    columns: 50vw;
+    background-color:#ccc;
+}
+.row{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    gap: 10px;
+}
+.cell-button{
+    height:5vh;
+    width:5vw;
+}
+.multi{
+    font-size:20px;
+    
+}

@@ -1,0 +1,8 @@
+.Amazon-container{
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+    display: grid;
+    justify-content: center;
+     
+}

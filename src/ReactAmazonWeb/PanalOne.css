@@ -1,0 +1,8 @@
+.panal-one{
+    width: 100vw;
+    height: 90vh;
+    background-color: lightpink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

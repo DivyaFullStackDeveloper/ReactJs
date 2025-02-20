@@ -1,0 +1,21 @@
+.team{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.playersTwo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: top;
+}
+.playersOne{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.player-button{
+    height: 20px;
+    width: 50px;
+}

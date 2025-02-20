@@ -1,0 +1,26 @@
+.container{
+    height:60vh;
+    width: 30vw;
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    margin-top: 50px;
+    border: solid;
+}
+h1{
+    font-size:30px;
+    color: black;
+    margin-left: 20px;
+    text-align: center;
+}
+h2{
+    font-size:20px;
+    color: black;
+    text-align: center;
+}
+.fruit-list{
+width: 100px;
+ background-color: lightgreen;
+ margin-left: 160px;
+ 
+}

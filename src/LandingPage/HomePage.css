@@ -1,0 +1,47 @@
+.main-container{
+    height: auto;
+    width: 100vw;
+    background-image: url(./assets/home-bg1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+nav{
+    background-color:rgb(56, 114, 213);
+    height:10vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+}
+.nav-logo{
+    width: 40%;
+    color: azure;
+}
+.nav-links{
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 5px;
+    color: aliceblue;
+}
+.nav-links:hover {
+ color: #CB9DF0;
+}
+.container{
+    display: flex;
+    flex-direction:row;
+}
+h1{
+    color: #42032C;
+    margin-left:30px;
+}
+p{
+    font-size: 30px;
+}
+.image{
+    margin-left: 700px;
+    margin-top: 80px;
+}
+
+
