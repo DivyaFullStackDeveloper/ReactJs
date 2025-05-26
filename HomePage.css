@@ -1,0 +1,30 @@
+.Home-main-container{
+    width: 100vw;
+    height: auto;
+    background-color:white;
+}
+.home-project-title{
+    color:white;
+    font-size:40px;
+}
+.Projects-Container{
+    display: flex;
+    flex-direction:row;
+    gap: 20px;
+}
+.title-container{
+    height:20%;
+    background-color:#35858B;
+    
+}
+.project-box{
+    border: solid;
+    border-radius: 5px;
+    border-color:white;
+    margin:5px;
+    object-fit: cover;
+    height:30px;
+    width: 130px;
+    background-color:#c4e6e9;
+    text-align: center;
+}
